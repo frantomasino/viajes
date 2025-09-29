@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Nos Vamos a Orlando - Tu Aventura Mágica Te Espera",
+  title: "  Tu Aventura Mágica Te Espera",
   description:
     "Descubre la magia de Orlando con nosotros. Experiencias únicas, parques temáticos, y recuerdos inolvidables.",
   generator: "v0.app",
